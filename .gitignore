@@ -1,0 +1,35 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.db
+*.opendb
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+cmake_install.cmake
+install/
+
+# Dependencies / Temporary
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Executables / Libraries from build
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
